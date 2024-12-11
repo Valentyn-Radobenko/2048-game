@@ -1,4 +1,4 @@
-# JS game, that was created using HTML, SCSS, JS (DOM)
+# JS 2048 game, that was created using HTML, SCSS, JS (DOM)
 A classic and addictive puzzle game designed exclusively for laptop users. The goal is simple: combine tiles with the same numbers to reach the 2048 tile.
 
 - **Laptop-focused design:** Optimized for keyboard gameplay on laptops.
